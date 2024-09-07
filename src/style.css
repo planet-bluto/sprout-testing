@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Koulen";
+    src: url("./assets/Koulen-Regular.ttf");
+}
+
+body {
+    font-family: "Koulen";
+    width: 640px;
+    height: 800px;
+    margin: 0px;
+    scale: 1;
+}
